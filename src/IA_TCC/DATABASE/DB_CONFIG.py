@@ -3,7 +3,7 @@ from sqlalchemy import create_engine
 
 DB_NAME ="TCC_MBA_COMPANIES_IA"
 DB_USER ="postgres"
-DB_PASSWORD ="Senha"
+DB_PASSWORD ="senha"
 DB_HOST = "localhost"
 DB_PORT = "5432"
 def connection():
