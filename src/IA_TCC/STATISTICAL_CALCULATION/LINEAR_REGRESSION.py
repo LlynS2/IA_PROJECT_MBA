@@ -5,10 +5,8 @@ import seaborn as sns
 from src.IA_TCC.DATABASE.DB_CONFIG import sqlalchemy_engine
 
 class Linear_Regression:
-
     def __init__(self, connection):
         self.conn = sqlalchemy_engine()
-
     def interpretar_resultado(self, modelo, nome_modelo):
         print(f"\n📊 Interpretação para {nome_modelo}")
         for var in modelo.params.index:
@@ -55,7 +53,6 @@ class Linear_Regression:
                 nomes = df_setor[df_setor["adotou_ia"] == adotou]["nome"].unique()
                 print(f"- {grupo}: {', '.join(nomes) if len(nomes) > 0 else 'Nenhuma'}")
 
-            # Métricas: ROI, Lucro, Receita
             for alvo in ["roi", "lucro", "receita"]:
                 print(f"\n=== Regressão para {alvo.upper()} ===")
 

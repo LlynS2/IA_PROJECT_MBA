@@ -1,5 +1,4 @@
 from src.IA_TCC.DATABASE.DB_CONFIG import connection
-
 def create_tables():
     conn = connection()
     if conn:

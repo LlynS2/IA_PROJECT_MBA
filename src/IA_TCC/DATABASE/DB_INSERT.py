@@ -4,7 +4,6 @@ from src.IA_TCC.DATABASE.DB_CONFIG import connection
 
 file_path = os.path.join(os.path.dirname(__file__), "Datas", "DATAS - COMPANIES.xlsx")
 df = pd.read_excel(file_path)
-
 def insert_datas(conn):
     df.columns = [col.strip() for col in df.columns]
     conn = connection()
