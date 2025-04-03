@@ -3,28 +3,37 @@
 </div><br>
 <div align="center">
   <h1>Strategic AI: Financial Impacts, Corporate Growth, and the New Challenges of Business Leadership</h1>
+  <p>Este repositório apresenta a aplicação prática de técnicas de análise de dados, modelagem estatística e observabilidade para investigar os impactos financeiros da adoção da Inteligência Artificial (IA) nos setores de tecnologia, finanças e indústria.
+     Desenvolvido como projeto de conclusão do MBA em Engenharia de Software (USP/Esalq), este estudo combina rigor acadêmico com visão de negócios, entregando um código limpo, reutilizável e orientado à tomada de decisão.</p>
 </div>
 <div>
-    <p>Este repositório contém o código-fonte do projeto de conclusão de curso do MBA em Engenharia de Software (USP/Esalq), cujo objetivo foi analisar os impactos financeiros da adoção da Inteligência Artificial (IA) em empresas dos setores de tecnologia, finanças e indústria.</p>
-</div>
-<div>
-   <h2>🧠 Sobre o Projeto</h2>
-    <p>O projeto aplica técnicas de regressão linear múltipla para analisar se a adoção de IA impactou estatisticamente os indicadores financeiros:</p>
+   <h2> Sobre o Projeto</h2>
+    <p>O projeto aplica técnicas de regressão linear múltipla para analisar se a adoção da Inteligência Artificial impactou estatisticamente os indicadores financeiros das empresas, sendo eles :</p>
     <ul>
         <li>Receita</li>
         <li>Lucro</li>
         <li>ROI (Retorno sobre Investimento)</li>
     </ul>
-    <p>A base de dados foi construída com informações reais extraídas de plataformas como Yahoo Finance, Google Finance, TradingView, entre outras fontes públicas, cobrindo o período de 2020 a 2024.</p>
-    <h2>🛠️ Tecnologias Utilizadas</h2>
-    <ul>
-        <li>Python 3.10+</li>
-        <li>PostgreSQL</li>
-        <li>Pandas</li>
-        <li>Statsmodels</li>
-        <li>Matplotlib</li>
-        <li>DBeaver (opcional)</li>
-    </ul>
+    <p>A base de dados foi construída com informações reais extraídas de plataformas como <b>Yahoo Finance, Google Finance, TradingView, entre outras fontes públicas</b>, cobrindo o período de 2020 a 2024. Os dados foram levantados em uma <b>planilha excel</b>, mas sua conexão, modelagem e inserção foram utilizados via banco <b>PostgreSQL</b>, utilizando uma ferramenta de gerencimaneto de banco de dados chamado <b>DBeaver</b> <i>( *Não obrigatório )</i></p>
+    <h2>Tecnologias Utilizadas</h2>
+   <table>
+      <tbody>
+      <tr>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td>Python 3.10+</td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td>PostgreSQL</td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td>Pandas</td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td>Statsmodels</td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td>Matplotlib</td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td>DBeaver</td>
+      </tr>
+    </tbody>
+   </table>
     <h2>💾 Banco de Dados</h2>
     <p>Os dados foram organizados em um banco de dados relacional PostgreSQL. A estrutura foi composta por:</p>
     <ul>
@@ -57,6 +66,11 @@
     <p>Os resultados da regressão serão impressos no console e salvos em arquivos <code>.csv</code> na pasta <code>/results</code> (se habilitado).</p>
 </div>
 <div align="center">
-   <p>Projeto desenvolvido por Hevellyn Mc'Frei - XRevolution Technologies | Todos os direitos reservados (2025).</p><br>
-   <p>Este projeto sob a <a href="LICENSE">Licença MIT</a>.</p>
+   <p>
+     <strong>Projeto desenvolvido por Hevellyn Mc'Frei – XRevolution Technologies</strong><br>
+     Todos os direitos reservados © 2025.
+      <img src="https://github.com/user-attachments/assets/2005b055-a382-401c-8f93-f22a5b0eedc8" alt="License" width="150">
+     Este projeto está licenciado sob a
+     <a href="https://www.gnu.org/licenses/agpl-3.0.html" target="_blank">Licença AGPL-3.0</a><br><br>
+   </p>
 </div>
