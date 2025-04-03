@@ -1,8 +1,8 @@
 <div align="right">
-   Other languages : <a href="https://github.com/LlynS2/IA_PROJECT_MBA/tree/Português" target="_blank">Português <img src="https://github.com/user-attachments/assets/fa0289cd-3feb-4b62-a6b5-19d80a95a50c" width="15"></a> | <a href="https://github.com/LlynS2/IA_PROJECT_MBA/tree/Español" target="_blank">Español <img src="https://github.com/user-attachments/assets/0a4eb85c-cd21-43fc-bd98-7c1042f7b08e" width="17"></a> | <a href="https://github.com/LlynS2/IA_PROJECT_MBA/tree/中文" target="_blank">中文 <img src="https://github.com/user-attachments/assets/e3939437-846c-452f-b2a8-ec4dc394d7d9" width="17"></a> | <a href="https://github.com/LlynS2/IA_PROJECT_MBA/tree/한국어" target="_blank">한국어 <img src="https://github.com/user-attachments/assets/5f6886c4-4a79-49b7-b33c-053e1b7ba8c4" width="17"></a>
+   Other languages : <a href="https://github.com/LlynS2/IA_PROJECT_MBA" target="_blank">English <img src="https://github.com/user-attachments/assets/8e065c04-101a-4fd8-814c-b8e6778fca1a" width="15"></a> | <a href="https://github.com/LlynS2/IA_PROJECT_MBA/tree/Español" target="_blank">Español <img src="https://github.com/user-attachments/assets/0a4eb85c-cd21-43fc-bd98-7c1042f7b08e" width="17"></a> | <a href="https://github.com/LlynS2/IA_PROJECT_MBA/tree/中文" target="_blank">中文 <img src="https://github.com/user-attachments/assets/e3939437-846c-452f-b2a8-ec4dc394d7d9" width="17"></a> | <a href="https://github.com/LlynS2/IA_PROJECT_MBA/tree/한국어" target="_blank">한국어 <img src="https://github.com/user-attachments/assets/5f6886c4-4a79-49b7-b33c-053e1b7ba8c4" width="17"></a>
 </div><br>
 <div align="center">
-  <h1>Strategic AI: Financial Impacts, Corporate Growth, and the New Challenges of Business Leadership</h1>
+  <h1>IA Estratégica: Impactos Financeiros, Crescimento Corporativo e os Novos Desafios da Liderança Empresarial</h1>
   <p>Este repositório apresenta a aplicação prática de técnicas de análise de dados, modelagem estatística e observabilidade para investigar os impactos financeiros da adoção da Inteligência Artificial (IA) nos setores de tecnologia, finanças e indústria.
      Desenvolvido como projeto de conclusão do MBA em Engenharia de Software (USP/Esalq), este estudo combina rigor acadêmico com visão de negócios, entregando um código limpo, reutilizável e orientado à tomada de decisão.</p>
 </div>
@@ -21,15 +21,15 @@
       <tr>
         <td><img src="https://github.com/user-attachments/assets/79b00d68-5931-4f9e-921d-09c779c6edc6" alt="Python" width="55"></td>
         <td>Python 3.10</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/52722ca3-43b8-4a66-91d8-f166a57c8496" alt="PostgreSQL" width="55"></td>
         <td>PostgreSQL</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/1b00d7b7-1ed1-409e-a652-9f7637d8d7ea" alt="Pandas" width="55"></td>
         <td>Pandas</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Statsmodels" width="55"></td>
         <td>Statsmodels</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Matplotlib" width="55"></td>
         <td>Matplotlib</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="DBeaver" width="55"></td>
         <td>DBeaver</td>
       </tr>
     </tbody>
