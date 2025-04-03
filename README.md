@@ -15,7 +15,7 @@
         <li>投资回报率（ROI）</li>
     </ul>
     <p>数据基础来自于 <b>Yahoo Finance、Google Finance、TradingView</b> 等公共平台，覆盖 2020 至 2024 年的真实企业数据。最初整理于 <b>Excel 电子表格</b>，并通过 <b>PostgreSQL</b> 数据库进行建模与插入，使用 <b>DBeaver</b> 数据库管理工具辅助（<i>*非必需</i>）。</p>
-    <h2>🤖 𝐔𝐬𝐞𝐝 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬</h2>
+    <h2>🤖 𝐓𝐞𝐜𝐡𝐧𝐨𝐥𝐨𝐠𝐢𝐞𝐬 𝐔𝐬𝐞𝐝</h2>
    <table>
       <tbody>
       <tr>
