@@ -19,17 +19,17 @@
    <table>
       <tbody>
       <tr>
-        <td><img src="https://github.com/user-attachments/assets/79b00d68-5931-4f9e-921d-09c779c6edc6" alt="Python" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/79b00d68-5931-4f9e-921d-09c779c6edc6" alt="Python" width="95"></td>
         <td>Python 3.10</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/f8ddd777-b71b-430d-9eda-d69ce34e5d4e" alt="PostgreSQL" width="95"></td>
         <td>PostgreSQL</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/79b3568c-817d-42e0-a606-fe646144dc82" alt="Pandas" width="95"></td>
         <td>Pandas</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/c6d8e24a-d8a2-4e49-9a55-4aa5127a66bc" alt="Statsmodels" width="95"></td>
         <td>Statsmodels</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/25366bfd-8d8e-4c03-bc5b-26b7eb6e0717" alt="Matplotlib" width="95"></td>
         <td>Matplotlib</td>
-        <td><img src="https://github.com/user-attachments/assets/41616e29-7bff-4bae-8523-684ff3dd9ca1" alt="Alura" width="55"></td>
+        <td><img src="https://github.com/user-attachments/assets/3a09892a-3aa3-4eb9-ab55-517132968b6e" alt="DBeaver" width="95"></td>
         <td>DBeaver</td>
       </tr>
     </tbody>
